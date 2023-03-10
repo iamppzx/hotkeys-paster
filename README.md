@@ -1,10 +1,8 @@
-# shortcut-paster
+# hotkeys-paster
 
-Shortcut Paster using python
+Hotkeys Paster using python
 
 ## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 git clone https://github.com/iamppzx/shortcut-paster.git
@@ -15,9 +13,9 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-cd shortcut-paster-main
+cd hotkeys-paster-main
 
-python shortcut-paster.py
+python hotkeys-paste.py
 ```
 
 
